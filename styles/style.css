@@ -1,0 +1,84 @@
+
+.new1 {
+    background: url(../img/ТОП\ ЯП\ в\ 2024.webp);
+
+    width: 750px;
+    height: 250px;
+    background-size: cover;
+}
+.new2 {
+    background: url(../img/Логотип\ Adobe.png);
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+}
+.new3 {
+    background: url(../img/Гаджеты\ будущего.webp);
+    width: 900px;
+    height: 300px;
+    background-size: cover;
+}
+.top {
+    width: 600px;
+    height: 400px;
+}
+.python {
+    background: url(../img/python.svg);
+    background-size: cover;
+}
+.javascript {
+    background: url(../img/javascript.svg);
+    background-size: cover;
+}
+.java {
+    background: url(../img/java.svg);
+    background-size: cover;
+}
+.typescript {
+    background: url(../img/typescript.png);
+    width: 600px;
+    height: 300px;
+    background-size: cover;
+}
+.kotlin {
+    background: url(../img/kotlin.webp);
+    background-size: cover;
+}
+.rust {
+    background: url(../img/rust.webp);
+    width: 600px;
+    height: 210px;
+    background-size: cover;
+}
+.go {
+    background: url(../img/go.webp);
+    background-size: cover;
+}
+.CSharp {
+    background: url(../img/C\ Sharp.svg);
+    background-size: cover;
+}
+.gb {
+    width: 500px;
+    height: 300px;
+}
+.home {
+    background: url(../img/умные\ дома.webp);
+    background-size: cover;
+}
+.virtualreal {
+    background: url(../img/технологии\ виртуальной\ реальности.webp);
+    background-size: cover;
+}
+.avto {
+    background: url(../img/бесполотные\ авто.webp);
+    background-size: cover;
+}
+.ii {
+    background: url(../img/ИИ.jpg);
+    background-size: cover;
+}
+.ekologiya {
+    background: url(../img/Экология.webp);
+    background-size: cover;
+}
